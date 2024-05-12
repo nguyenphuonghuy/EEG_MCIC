@@ -1,1 +1,1 @@
-# EEG_MCIC
+# EEG_MCIS
